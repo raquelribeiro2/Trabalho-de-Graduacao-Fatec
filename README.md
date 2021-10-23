@@ -4,6 +4,12 @@
 
 Este portfólio acadêmico foi construído com projetos realizados em minha formação em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/).
 
+Sou ingressante do segundo semestre do ano de 2019, semestre no qual a FATEC deu início ao método de Aprendizado por Projeto Integrado. Desde então, tive a oportunidade de trabalhar em equipe, desenvolvendo habilidades técnicas enquanto construía uma solução de um problema real, trazido por empresas parceiras.
+
+Me encontrei na área de TI, mais especificamente no Desenvolvimento Web, onde contribuo por enquanto no cargo de PO e desenvolvedora backend.
+
+Sempre em busca do próximo nível, foco em um dia ser Arquiteta de Sistemas.
+
 ## Meus Projetos
 
 ## :heavy_check_mark: Em 2019-2
@@ -250,4 +256,18 @@ Auxílio de levantamento de requisitos e definição das regras de negócio. Fiz
 - Proatividade: Prever áreas que precisavam de suporte, pesquisar e pegar a tarefa.
 - Trabalho em equipe: Muito importante para uma equipe com 9 integrantes, onde cada um sabia seu papel.
 
+## Meus Principais Conhecimentos
+
+  - **Python**, trabalhando com raspagem e tratamento de dados públicos e privados;
+  - **NodeJS**, **Typescript** e **Javascript**, no desenvolvimento de APIs;
+  - **Docker** e **Docker Compose**, na construção de contêineres isolados para banco de dados e servidores;
+  - **PostgreSQL**, para armazenamento dos dados de usuários, atas e anúncios;
+  - **MongoDB**, banco não relacional para armazenamento das mensagens de chat;
+  - **Jest**, para testes unitários e de integração;
+  - **Swagger**, na elaboração da documentação das APIs;
+  - **AWS**, configuração de servidor deploy, envio de e-mails e armazenamento no Storage.
+
+## Contatos
+* [GIT](https://github.com/raquelribeiro2/)
+* [LinkedIn](https://www.linkedin.com/in/raquel-rodrigues-ribeiro-a9537818b/)
 
