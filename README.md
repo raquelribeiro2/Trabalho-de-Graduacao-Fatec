@@ -256,6 +256,121 @@ Auxílio de levantamento de requisitos e definição das regras de negócio. Fiz
 - Proatividade: Prever áreas que precisavam de suporte, pesquisar e pegar a tarefa.
 - Trabalho em equipe: Muito importante para uma equipe com 9 integrantes, onde cada um sabia seu papel.
 
+## :heavy_check_mark: Em 2021-1
+
+### Parceiro Acadêmico
+[IACIT](https://www.iacit.com.br/)
+
+![logo_iacit](https://user-images.githubusercontent.com/57918707/142696778-33452c20-941c-4137-a18d-9f5c5a9bd605.jpg)
+
+**Figura 6: Logo IACIT (Fonte: https://www.iacit.com.br/)**
+
+Fundada em 1986, a IACIT é uma empresa brasileira, certificada como Empresa Estratégica de Defesa (EED) e que possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo, Defesa e Segurança Pública, Meteorologia, entre outros.
+
+A empresa nos trouxe o desafio de desenvolver um sistema web para criação e gerenciamento de atas digitais.
+
+Com o [Typext](https://github.com/Typext) entregamos o desenvolvimento de um sistema web que permite a criação e gerenciamento de atas digitais. Além disso, a plataforma possibilita a avaliação dos documentos para todos os participantes, sem que seja necessário estar cadastrado na ferramenta. O Typext conta também com um sistema de assinatura digital para maior controle e segurança.
+
+![typext](https://user-images.githubusercontent.com/57918707/142696904-a51e1ebe-dd3d-4407-b4d0-b1d20e040111.png)
+
+**Figura 7: Typext (Fonte: https://github.com/Typext/Entregas-e-documentos)**
+
+### Tecnologias utilizadas
+
+![tecnologias](https://user-images.githubusercontent.com/57918707/142697104-c2566b8f-b78e-48c6-9677-5805850e60c8.png)
+
+**Figura 8: Apresentação das tecnologias utilizadas (Fonte: https://github.com/Typext/Entregas-e-documentos)**
+
+- Typescript: Linguagem de programação de código e um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Utilizada em no desenvolvimento de toda a aplicação, tanto no backend, como no frontend.
+
+- NodeJS: Software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. Utilizado em conjunto com o Typescript para desemvolvimento do backend.
+
+- Docker: É uma forma de virtualizar aplicações no conceito de “containers”. Foi utilizado na implementação do banco de dados.
+
+- PostgreSQL: Sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto. Foi escolhido pois a equipe tem familiaridade para instalação e gerenciamento, além do conhecimento com o ORM utilizado, TypeORM.
+
+- ReactJS: É uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Utilizada para o desenvolvimento de todo frontend da aplicação.
+
+- Styled Components: é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação. Eles são escritos em uma mistura de JavaScript com CSS. Utilizada para melhoria da qualidade do código e facilidade da sintaxe.
+
+### Contribuições pessoais
+
+Auxílio de levantamento de requisitos e definição das regras de negócio. Fiz parte do Squad responsável pelo backend, onde minha maior contribuição foi no desenvolvimento das rotas referentes aos usuários da aplicação e implementação de testes unitários na aplicação, com a utilização do JEST. Participei da integração com o banco de dados e do desenvolvimento da documentação com Swagger.
+
+### Hard Skills
+
+- Desenvolver serviço Rest utilizando NodeJS: Sei fazer com autonomia;
+- Implementação de testes: Sei fazer com autonomia;
+- Desenvolvimento do frontend: Sei fazer com ajuda;
+- Criação de containers utilizando Docker: Sei fazer com autonomia;
+- Documentação do projeto: Sei fazer com autonomia;
+- Wareframes: Sei fazer com autonomia;
+- Metodologia Ágil SCRUM: Sei fazer com autonomia.
+
+### Soft Skills
+
+- Flexibilidade: Compreensão das ideias e sugestões de cada um da equipe e consenso entre todos pela melhor resolução do problema.
+- Comunicação eficaz: Troca de informações que resultaram em caminhar num sentido único, onde houve compreensão da importância das dificuldades e experiências de cada um na equipe.
+- Proatividade: Prever áreas que precisavam de suporte, pesquisar e pegar a tarefa.
+- Trabalho em equipe: Muito importante para uma equipe com 9 integrantes, onde cada um sabia seu papel.
+
+## :heavy_check_mark: Em 2021-2
+
+### Parceiro Acadêmico
+[GSW](http://www.gsw.com.br)
+
+![gsw](https://user-images.githubusercontent.com/57918707/142700503-f5683f6e-b245-4a52-8a8b-0a6121c083f6.png)
+
+**Figura 6: Logo GSW (Fonte: https://pqtec.org.br/empresas/gsw/)**
+
+Atuando no mercado desde 1991, a GSW é uma empresa nacional especializada em gerar soluções para o gerenciamento e controle de processos e negócios.
+
+Neste semestre fomos desafiados a desenvolver aplicações Web e Mobile para anúncios de vendas de carros, sendo parte de uma melhoria contínua de um produto já existente de nosso cliente.
+
+Com a [OneCar](https://github.com/OneCar-API) entregamos o desenvolvimento de um sistema para anúncios de vendas de carros. Na aplicação Mobile é possível que o anunciante faça o cadastro dos anúncios um a um. Além disso, cada anunciante pode gerenciar seus anúncios, tendo acesso ao número de visualizações e interesses no anúncio e ainda se comunicar com o comprador através de um chat do sistema que funciona em tempo real. Essas funcionalidades estão presentes na aplicação Web, que também permite que o anunciante faça o upload de um arquivo csv contendo informações de usuários e anúncios para que sejam cadastrados em nossa base de dados. Quanto ao comprador, ele tem acesso à todos os anúncios cadastrados em nossa base, podendo filtrar as buscas através do nome, marca e ano do carro e a cidade que preferir.
+
+![onecar](https://user-images.githubusercontent.com/57918707/142699766-6691637d-24dd-46da-aaf6-362ccbd488ee.png)
+
+**Figura 7: OneCar (Fonte: https://github.com/OneCar-API/onecar-docs)**
+
+### Tecnologias utilizadas
+
+- Typescript: Linguagem de programação de código e um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Utilizada em no desenvolvimento de toda a aplicação, tanto no backend, como no frontend.
+
+- NodeJS: Software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. Utilizado em conjunto com o Typescript para desemvolvimento do backend.
+
+- Docker Compose: Ferramenta para definir e executar aplicativos Docker de vários contêineres. Configuramos os serviços utilizados para executar a aplicação, sendo eles, a própria aplicação, banco de dados PostgreSQL e banco de dados MongoDB.
+
+- PostgreSQL: Sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto. Foi escolhido pois a equipe tem familiaridade para instalação e gerenciamento, além do conhecimento com o ORM utilizado, TypeORM.
+
+- MongoDB: Software de banco de dados de código aberto e multiplataforma, classificado como um programa de banco de dados NoSQL e utiliza documentos semelhantes a JSON com esquemas. Utilizado para salvar os dados relacionados com o Chat.
+
+- ReactJS: É uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Utilizada para o desenvolvimento de todo frontend da aplicação.
+
+- Styled Components: é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação. Eles são escritos em uma mistura de JavaScript com CSS. Utilizada para melhoria da qualidade do código e facilidade da sintaxe.
+
+### Contribuições pessoais
+
+Atuei como Scrum Master da equipe, auxiliei no levantamento de requisitos e definição das regras de negócio, bem como priorização de tarefas para cada sprint. Minhas contribuições foram na implementação dos serviços com o Docker Compose, desenvolvimento das rotas referentes aos usuários da aplicação, importação de csv e upload de imagens, bem como a implementação de testes unitários na aplicação, com a utilização do JEST e do desenvolvimento da documentação com Swagger. Tive pequena participação no desenvolvimento do frontend, onde tive a oportunidade de implementar as funcionalidades nas telas de cadastro, login e recuperação de senha, além das primeiras versões das telas de listagem e detalhes do anúncio.
+
+### Hard Skills
+
+- Desenvolver serviço Rest utilizando NodeJS: Sei fazer com autonomia;
+- Implementação de testes: Sei fazer com autonomia;
+- Desenvolvimento do frontend: Sei fazer com ajuda;
+- Criação de serviços utilizando Docker Compose: Sei fazer com autonomia;
+- Documentação do projeto: Sei fazer com autonomia;
+- Wareframes: Sei fazer com autonomia;
+- Metodologia Ágil SCRUM: Sei fazer com autonomia.
+
+### Soft Skills
+
+- Confiança: Reconhecer capacidade para desenvolver em áreas que não tinha familiaridade.
+- Comunicação eficaz: Troca de informações que resultaram em caminhar num sentido único, onde houve compreensão da importância das dificuldades e experiências de cada um na equipe.
+- Proatividade: Prever áreas que precisavam de suporte, pesquisar e pegar a tarefa.
+- Trabalho em equipe: Dessa vez nossa equipe contava com 5 integrantes, no início, onde tínhamos pouco conhecimento de frontend, porém nos esforçamos para uma entrega de valor ao cliente. Nas sprints seguintes, dois integrantes com bastante conhecimento em frontend chegaram à nossa equipe e acrescentaram muito valor ao time.
+- Coordenação em Equipe: Gerir as prioridades das tarefas, bem como entender a limitação de cada um, assim como buscar auxílio com outros colegas e professores sempre que necessário para o sucesso da sprint.
+
 ## Meus Principais Conhecimentos
 
   - **Python**, trabalhando com raspagem e tratamento de dados públicos e privados;
