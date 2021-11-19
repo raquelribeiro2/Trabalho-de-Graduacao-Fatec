@@ -263,7 +263,7 @@ Auxílio de levantamento de requisitos e definição das regras de negócio. Fiz
 
 ![logo_iacit](https://user-images.githubusercontent.com/57918707/142696778-33452c20-941c-4137-a18d-9f5c5a9bd605.jpg)
 
-**Figura 6: Logo IACIT (Fonte: https://www.iacit.com.br/)**
+**Figura 9: Logo IACIT (Fonte: https://www.iacit.com.br/)**
 
 Fundada em 1986, a IACIT é uma empresa brasileira, certificada como Empresa Estratégica de Defesa (EED) e que possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo, Defesa e Segurança Pública, Meteorologia, entre outros.
 
@@ -273,13 +273,13 @@ Com o [Typext](https://github.com/Typext) entregamos o desenvolvimento de um sis
 
 ![typext](https://user-images.githubusercontent.com/57918707/142696904-a51e1ebe-dd3d-4407-b4d0-b1d20e040111.png)
 
-**Figura 7: Typext (Fonte: https://github.com/Typext/Entregas-e-documentos)**
+**Figura 10: Typext (Fonte: https://github.com/Typext/Entregas-e-documentos)**
 
 ### Tecnologias utilizadas
 
 ![tecnologias](https://user-images.githubusercontent.com/57918707/142697104-c2566b8f-b78e-48c6-9677-5805850e60c8.png)
 
-**Figura 8: Apresentação das tecnologias utilizadas (Fonte: https://github.com/Typext/Entregas-e-documentos)**
+**Figura 11: Apresentação das tecnologias utilizadas (Fonte: https://github.com/Typext/Entregas-e-documentos)**
 
 - Typescript: Linguagem de programação de código e um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Utilizada em no desenvolvimento de toda a aplicação, tanto no backend, como no frontend.
 
@@ -321,7 +321,7 @@ Auxílio de levantamento de requisitos e definição das regras de negócio. Fiz
 
 ![gsw](https://user-images.githubusercontent.com/57918707/142700503-f5683f6e-b245-4a52-8a8b-0a6121c083f6.png)
 
-**Figura 6: Logo GSW (Fonte: https://pqtec.org.br/empresas/gsw/)**
+**Figura 12: Logo GSW (Fonte: https://pqtec.org.br/empresas/gsw/)**
 
 Atuando no mercado desde 1991, a GSW é uma empresa nacional especializada em gerar soluções para o gerenciamento e controle de processos e negócios.
 
@@ -331,7 +331,7 @@ Com a [OneCar](https://github.com/OneCar-API) entregamos o desenvolvimento de um
 
 ![onecar](https://user-images.githubusercontent.com/57918707/142699766-6691637d-24dd-46da-aaf6-362ccbd488ee.png)
 
-**Figura 7: OneCar (Fonte: https://github.com/OneCar-API/onecar-docs)**
+**Figura 13: OneCar (Fonte: https://github.com/OneCar-API/onecar-docs)**
 
 ### Tecnologias utilizadas
 
