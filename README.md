@@ -1,6 +1,6 @@
 # Raquel Rodrigues Ribeiro
 
-![foto_perfil](https://user-images.githubusercontent.com/57918707/166225325-5eac2be9-966f-45ac-b71d-cdae9aba2d4f.jpeg)
+![perfil](https://user-images.githubusercontent.com/57918707/166226867-f6a2e1d5-f0a8-474e-94fe-0731d619e6bb.png)
 
 ## Introdução
 
