@@ -1,5 +1,7 @@
 # Raquel Rodrigues Ribeiro
 
+![foto_perfil](https://user-images.githubusercontent.com/57918707/166225325-5eac2be9-966f-45ac-b71d-cdae9aba2d4f.jpeg)
+
 ## Introdução
 
 Este portfólio acadêmico foi construído com projetos realizados em minha formação em Análise e Desenvolvimento de Sistemas pela [Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/).
@@ -370,6 +372,52 @@ Atuei como Scrum Master da equipe, auxiliei no levantamento de requisitos e defi
 - Proatividade: Prever áreas que precisavam de suporte, pesquisar e pegar a tarefa.
 - Trabalho em equipe: Dessa vez nossa equipe contava com 5 integrantes, no início, onde tínhamos pouco conhecimento de frontend, porém nos esforçamos para uma entrega de valor ao cliente. Nas sprints seguintes, dois integrantes com bastante conhecimento em frontend chegaram à nossa equipe e acrescentaram muito valor ao time.
 - Coordenação em Equipe: Gerir as prioridades das tarefas, bem como entender a limitação de cada um, assim como buscar auxílio com outros colegas e professores sempre que necessário para o sucesso da sprint.
+
+## :heavy_check_mark: Em 2022-1
+
+### Parceiro Acadêmico
+
+[UOL](https://www.uol.com.br/)
+
+![https://user-images.githubusercontent.com/57918707/165733327-5f524ad4-a1d6-4150-9992-0a866438ac4c.svg](https://user-images.githubusercontent.com/57918707/165733327-5f524ad4-a1d6-4150-9992-0a866438ac4c.svg)
+
+**Figura 14: Logo UOL (Fonte: [https://www.uol.com.br/](https://www.uol.com.br/))**
+
+No ar desde 1996, a UOL é a maior empresa de serviços, conteúdo e produtos online do Brasil. Seus produtos são acessados por milhões de visitantes todo mês.
+
+Neste semestre fomos desafiados a desenvolver uma ferramenta para previsibilidade de instabilidade do sistema.
+
+Desenvolvemos a [Orbit](https://github.com/Orbit-API) visando o monitoramento de sistemas e aplicação de Inteligência Artificial para previsão de risco de falha, e envio de notificação para que seja possível uma atitude com antecedência, garantindo que a aplicação permaneça no ar sem que o usuário perceba qualquer falha.
+
+![https://user-images.githubusercontent.com/56441318/160112708-193a18fe-2241-427c-8fe0-2dc23324b48a.png](https://user-images.githubusercontent.com/56441318/160112708-193a18fe-2241-427c-8fe0-2dc23324b48a.png)
+
+**Figura 15: Orbit (Fonte: [https://github.com/Orbit-API/orbit-docs](https://github.com/Orbit-API/orbit-docs))**
+
+### Tecnologias utilizadas
+
+- Java: Linguagem de programação orientada a objetos desenvolvida na década de 90, compilada para um bytecode que é interpretado por uma máquina virtual (Java Virtual Machine, mais conhecida pela sua abreviação JVM). Utilizada com o Spring Boot para desenvolvimento do backend da aplicação alvo.
+- Spring Boot: Framework open source para a plataforma Java, não intrusivo, baseado nos padrões de projeto inversão de controle (IoC) e injeção de dependência.
+- Docker: Conjunto de produtos de plataforma como serviço (PaaS) que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração. Eles podem se comunicar uns com os outros por meio de canais bem definidos. Todos os contêineres são executados por um único kernel do sistema operacional e, portanto, usam menos recursos do que as máquinas virtuais. Escolhido para 
+- PostgreSQL: Sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto. Foi escolhido pois a equipe tem familiaridade para instalação e gerenciamento.
+- VueJS: É uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. Utilizada para o desenvolvimento de todo frontend da aplicação.
+
+### Contribuições pessoais
+
+Atuei no time de desenvolvimento, auxiliando na produção da aplicação alvo, bem como estudo e conexão com as ferramentas de teste, monitoramento e envio de alerta, e estudo e desenvolvimento da IA para previsão de risco de falha.
+
+### Hard Skills
+
+- Desenvolvimento API com Java e Spring Boot: Sei fazer com autonomia;
+- Desenvolvimento do frontend: Sei fazer com ajuda;
+- Documentação do projeto: Sei fazer com autonomia;
+- Wareframes: Sei fazer com autonomia;
+- Metodologia Ágil SCRUM: Sei fazer com autonomia.
+
+### Soft Skills
+
+- Confiança: Reconhecer capacidade para desenvolver com linguagens que não tinha familiaridade.
+- Comunicação: Reuniões periódicas que permitiram identificar as etapas para resolução do problema, a experiência e familiaridade com os tópicos de cada integrante do time e também o conhecimento que deveria ser adquirido.
+- Resolução de problemas: Organização das tarefas para reconhecimento das dificuldades e aprendizado de tecnologias e ferramentas que permitiram solucionar o problema.
 
 ## Meus Principais Conhecimentos
 
